@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "조경모" 
-  avatar           : "/assets/images/profile/poto.jpg" # 프로필 이미지
+  avatar           : "/assets/poto.jpeg" # 프로필 이미지
   bio              : "다 하고싶은 대학생입니다. <br> 보고,듣고,배우고 싶은것들을 기록하고 있습니다."
   location         : "Republic of Korea"
   email            : "chogyeongmo98@gmail.com"
